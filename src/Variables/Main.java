@@ -1,4 +1,4 @@
-package Introduction;
+package Variables;
 import java.util.Scanner;
 
 public class Main {
