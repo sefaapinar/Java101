@@ -11,7 +11,11 @@ public class Main {
             System.out.println("Yeni Sayi =>" + reverseNumber);
             tmp /= 10;
         }
-        return true;
+        if(number == reverseNumber){
+            return  true;
+        }
+        return false;
+
     }
     //Palindrom say? = iki taraftan okundu?u zaman okunu? yönüyle ayn? olan say?lard?r.
     public static void main(String[] args) {
