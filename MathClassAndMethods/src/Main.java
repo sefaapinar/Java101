@@ -6,7 +6,7 @@ public class Main {
         System.out.println(Math.ceil(1.12)); //en yakın tam sayıya yuvarlanmış x değerini bizlere verir.
         System.out.println(Math.floor(1.0001)); //en yakın tam sayıya yuvarlanmış x değerini bizlere verir.
 
-        
+
 
     }
 }
