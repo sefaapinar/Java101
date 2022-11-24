@@ -14,6 +14,6 @@ public class Main {
 
         System.out.println(str.equals("patika")); // bir true veya bir false döndürür.
 
-        
+
     }
 }
